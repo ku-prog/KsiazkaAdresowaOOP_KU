@@ -1,0 +1,10 @@
+1|7||Karol|Ulc|123|321|
+2|7||Rysiek|321|123|321|
+3|7||Ryysiek|123321123|rys@wp.pl|Wroclaw|
+4|7||Krzysztof|123|321|123|
+5|7|Adam|Adamski|123321123|adam@wp.pl|Warszawa|
+6|7|Krzysztof|Krawczyk|48123321123|krzys@gmail.com|Krakow|
+7|7|Jakub|Kowalski|+48795789456|kuba@kuba.pl|Lubart¢w|
+8|8|Adam|Adam|123|321|Wroclaw|
+9|7|123|312|123|312|123|
+10|7|Jan|Kowalski|123231123|jan@wp.pl|Walbrzych|
